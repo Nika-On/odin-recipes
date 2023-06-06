@@ -1,1 +1,6 @@
 # odin-recipes
+I've created a simple HTML layout for recipes, focusing on two yummy dishes: pizza and lasagna. 
+
+When you open the project, you'll see  layout with separate sections for each recipe. In the "Pizza" section, you'll find a mouthwatering image of a pizza that will make your taste buds tingle. The heading gives you a quick idea of what it's all about. You'll also find a description that explains why pizza is so amazing. And of course, there are the ingredients and step-by-step instructions that will help you create your own homemade pizza magic!
+
+Now, let's move on to the "Lasagna" section. This one is all about comfort food! You'll see a picture of a delicious lasagna that will make you want to dig in. The heading captures the essence of this classic Italian dish. The description lets you in on the secret of why lasagna is so satisfying. And just like with the pizza, you'll find a list of ingredients and easy-to-follow instructions that will guide you through the process of making your very own lasagna masterpiece.
